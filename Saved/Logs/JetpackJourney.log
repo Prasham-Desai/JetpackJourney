@@ -1165,3 +1165,632 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.07.16-12.59.00:796][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7.562187, Update Interval: 352.620636
 [2026.07.16-12.59.01:111][ 13]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
 [2026.07.16-13.00.46:666][662]LogDerivedDataCache: C:/Users/prash/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.07.16-13.04.53:102][973]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 360.201721
+[2026.07.16-13.04.53:519][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.16-13.04.53:519][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 360.601990, Update Interval: 354.724579
+[2026.07.16-13.10.52:116][997]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 719.214905
+[2026.07.16-13.10.52:800][ 38]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.16-13.10.52:800][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 719.882141, Update Interval: 302.067322
+[2026.07.16-13.10.56:973][265]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.07.16-13.10.56:980][265]LogContentBrowser: Creating deferred item: NewFolder
+[2026.07.16-13.10.56:991][266]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.07.16-13.11.02:851][612]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2026.07.16-13.11.02:853][612]LogContentBrowser: End creating deferred item NewFolder
+[2026.07.16-13.12.00:895][435]LogSlate: Window 'Editor Preferences' being destroyed
+[2026.07.16-13.12.11:117][940]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.07.16-13.12.11:128][940]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.07.16-13.12.11:134][940]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.07.16-13.12.11:164][942]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.07.16-13.12.14:373][122]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Kix
+[2026.07.16-13.12.14:401][122]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.07.16-13.12.14:764][143]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Kix.BP_Kix
+[2026.07.16-13.12.14:766][143]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.07.16-13.12.14:792][143]LogStreaming: Display: FlushAsyncLoading(339): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.16-13.12.15:553][143]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2026.07.16-13.12.15:557][143]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.07.16-13.12.18:354][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.12.18:417][267]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.16-13.12.18:417][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.16-13.12.18:417][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.16-13.12.18:427][267]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.16-13.12.18:427][267]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_KixD0C879F94E431D30E02C4B9E235EB9DB.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.16-13.12.18:441][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.280 ms
+[2026.07.16-13.12.18:497][267]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.12.18:497][267]LogContentValidation: Enabled validators:
+[2026.07.16-13.12.18:497][267]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.12.18:497][267]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.12.18:497][267]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.12.18:497][267]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.12.18:497][267]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.12.18:497][267]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.12.18:498][267]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.16-13.12.18:518][267]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/SourceControl/UncontrolledChangelists.json
+[2026.07.16-13.12.42:297][534]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (OnePlus Buds 3), InstanceID=1
+[2026.07.16-13.12.42:298][534]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{855a9773-19a5-45ff-b3a0-ea50f7fda353}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.07.16-13.12.42:493][534]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{855a9773-19a5-45ff-b3a0-ea50f7fda353}]
+[2026.07.16-13.12.42:493][534]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.07.16-13.12.42:493][534]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.07.16-13.12.42:829][535]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{855a9773-19a5-45ff-b3a0-ea50f7fda353}, Name=Headphones (OnePlus Buds 3)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=289.04
+[2026.07.16-13.12.42:829][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.07.16-13.12.42:829][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.07.16-13.12.42:832][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.07.16-13.14.15:695][750]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.07.16-13.15.40:026][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.07.16-13.15.40:028][738]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/JetpackLevel' took 0.120
+[2026.07.16-13.15.40:029][738]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.16-13.15.40:038][738]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Kix.BP_Kix]
+[2026.07.16-13.15.40:039][738]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.07.16-13.15.40:051][738]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/BP_Kix.BP_Kix_C]
+[2026.07.16-13.15.40:051][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.16-13.15.40:056][738]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Kix_Auto1
+[2026.07.16-13.15.40:056][738]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_Kix_Auto147F0F3EA46E47A5C713E63904C272967.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/Autosaves/Game/Blueprints/BP_Kix_Auto1.uasset'
+[2026.07.16-13.15.40:057][738]LogFileHelpers: Auto-saving content packages took 0.028
+[2026.07.16-13.16.01:220][  6]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1028.323853
+[2026.07.16-13.16.01:670][ 33]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.16-13.16.01:670][ 33]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1028.756714, Update Interval: 313.777283
+[2026.07.16-13.16.25:243][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.07.16-13.16.26:865][515]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Kix.BP_Kix_C
+[2026.07.16-13.16.26:867][515]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Kix.BP_Kix_C
+[2026.07.16-13.16.26:869][515]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Kix.BP_Kix as actor: BP_Kix_C /Game/Maps/JetpackLevel.JetpackLevel:PersistentLevel.BP_Kix_C_0
+[2026.07.16-13.16.26:870][515]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Kix.BP_Kix as actor: BP_Kix_C /Game/Maps/JetpackLevel.JetpackLevel:PersistentLevel.BP_Kix_C_0
+[2026.07.16-13.16.26:873][515]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.07.16-13.16.28:561][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.07.16-13.16.28:565][614]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.07.16-13.16.28:572][614]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Kix.BP_Kix_C
+[2026.07.16-13.16.28:572][614]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Kix.BP_Kix_C
+[2026.07.16-13.16.28:576][614]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Kix.BP_Kix as actor: BP_Kix_C /Game/Maps/JetpackLevel.JetpackLevel:PersistentLevel.BP_Kix_C_1
+[2026.07.16-13.16.28:577][614]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Kix.BP_Kix as actor: BP_Kix_C /Game/Maps/JetpackLevel.JetpackLevel:PersistentLevel.BP_Kix_C_1
+[2026.07.16-13.16.38:610][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.16.38:666][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.16-13.16.38:672][193]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Kix.BP_Kix]
+[2026.07.16-13.16.38:672][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.16-13.16.38:672][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.16-13.16.38:675][193]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.16-13.16.38:675][193]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_Kix059EE10F40854597B6BFCCA1CB6DFE10.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.16-13.16.38:685][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.261 ms (total: 160.541 ms)
+[2026.07.16-13.16.38:748][193]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.16.38:748][193]LogContentValidation: Enabled validators:
+[2026.07.16-13.16.38:748][193]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.16.38:748][193]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.16.38:748][193]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.16.38:748][193]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.16.38:748][193]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.16.38:748][193]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.16.38:749][193]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.16-13.16.40:607][296]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.07.16-13.16.40:815][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.16.40:915][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.07.16-13.16.40:928][301]LogSavePackage: Moving output files for package: /Game/Maps/JetpackLevel
+[2026.07.16-13.16.40:928][301]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/JetpackLevel8A3C6D124A33B5DAA44781B3D4600C14.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Maps/JetpackLevel.umap'
+[2026.07.16-13.16.40:934][301]LogFileHelpers: Saving map 'JetpackLevel' took 0.054
+[2026.07.16-13.16.40:944][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.727 ms (total: 289.268 ms)
+[2026.07.16-13.16.41:007][301]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.16.41:007][301]LogContentValidation: Enabled validators:
+[2026.07.16-13.16.41:007][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.16.41:007][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.16.41:007][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.16.41:007][301]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.16.41:007][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.16.41:007][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.16.41:007][301]AssetCheck: /Game/Maps/JetpackLevel Validating asset
+[2026.07.16-13.16.41:034][301]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/SourceControl/UncontrolledChangelists.json
+[2026.07.16-13.18.14:226][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.07.16-13.18.15:763][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.18.15:853][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.07.16-13.18.15:862][926]LogSavePackage: Moving output files for package: /Game/Maps/JetpackLevel
+[2026.07.16-13.18.15:863][926]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/JetpackLevel05A04123463492B2DA5001AA02B39360.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Maps/JetpackLevel.umap'
+[2026.07.16-13.18.15:868][926]LogFileHelpers: Saving map 'JetpackLevel' took 0.049
+[2026.07.16-13.18.15:879][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.983 ms (total: 405.251 ms)
+[2026.07.16-13.18.15:940][926]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.18.15:940][926]LogContentValidation: Enabled validators:
+[2026.07.16-13.18.15:940][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.18.15:940][926]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.18.15:940][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.18.15:940][926]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.18.15:940][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.18.15:940][926]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.18.15:940][926]AssetCheck: /Game/Maps/JetpackLevel Validating asset
+[2026.07.16-13.18.24:720][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.18.24:809][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.07.16-13.18.24:817][429]LogSavePackage: Moving output files for package: /Game/Maps/JetpackLevel
+[2026.07.16-13.18.24:817][429]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/JetpackLevel8D6403E4495ED560D8160E8EE29AEC8A.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Maps/JetpackLevel.umap'
+[2026.07.16-13.18.24:824][429]LogFileHelpers: Saving map 'JetpackLevel' took 0.047
+[2026.07.16-13.18.24:833][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.043 ms (total: 518.295 ms)
+[2026.07.16-13.18.24:897][429]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.18.24:897][429]LogContentValidation: Enabled validators:
+[2026.07.16-13.18.24:897][429]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.18.24:897][429]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.18.24:897][429]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.18.24:897][429]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.18.24:897][429]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.18.24:897][429]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.18.24:897][429]AssetCheck: /Game/Maps/JetpackLevel Validating asset
+[2026.07.16-13.18.40:286][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.18.40:351][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.16-13.18.40:357][345]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Kix.BP_Kix]
+[2026.07.16-13.18.40:357][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.16-13.18.40:357][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.16-13.18.40:360][345]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.16-13.18.40:361][345]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_KixEA53FC3D44103CE750BB1AA1EBA75DFF.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.16-13.18.40:370][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.564 ms (total: 602.859 ms)
+[2026.07.16-13.18.40:431][345]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.18.40:431][345]LogContentValidation: Enabled validators:
+[2026.07.16-13.18.40:431][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.18.40:431][345]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.18.40:431][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.18.40:431][345]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.18.40:431][345]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.18.40:431][345]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.18.40:431][345]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.16-13.18.48:025][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.18.48:083][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.16-13.18.48:083][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.16-13.18.48:083][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.16-13.18.48:087][796]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.16-13.18.48:087][796]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_Kix954C749F46C87FA0F04071860BE86827.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.16-13.18.48:095][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.547 ms (total: 672.407 ms)
+[2026.07.16-13.18.48:159][796]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.18.48:159][796]LogContentValidation: Enabled validators:
+[2026.07.16-13.18.48:159][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.18.48:159][796]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.18.48:159][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.18.48:159][796]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.18.48:159][796]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.18.48:159][796]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.18.48:159][796]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.16-13.19.01:969][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.19.02:023][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.16-13.19.02:023][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.16-13.19.02:023][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.16-13.19.02:027][622]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.16-13.19.02:027][622]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_Kix8A1B545042D14F0FE74381B50E51D119.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.16-13.19.02:034][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.814 ms (total: 737.221 ms)
+[2026.07.16-13.19.02:095][622]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.19.02:095][622]LogContentValidation: Enabled validators:
+[2026.07.16-13.19.02:095][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.19.02:095][622]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.19.02:095][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.19.02:095][622]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.19.02:095][622]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.19.02:095][622]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.19.02:095][622]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.16-13.19.14:113][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.19.14:167][335]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.16-13.19.14:174][335]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Kix.BP_Kix]
+[2026.07.16-13.19.14:174][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.16-13.19.14:174][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.16-13.19.14:177][335]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.16-13.19.14:177][335]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_Kix9F0997084814FC1FD26DC09B16C07C0D.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.16-13.19.14:185][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.168 ms (total: 809.389 ms)
+[2026.07.16-13.19.14:249][335]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.19.14:249][335]LogContentValidation: Enabled validators:
+[2026.07.16-13.19.14:249][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.19.14:249][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.19.14:249][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.19.14:249][335]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.19.14:249][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.19.14:249][335]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.19.14:249][335]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.16-13.19.31:149][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.19.31:214][346]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.16-13.19.31:221][346]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Kix.BP_Kix]
+[2026.07.16-13.19.31:221][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.16-13.19.31:221][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.16-13.19.31:225][346]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.16-13.19.31:225][346]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_Kix2EED80A841F473B2A9F90E8AA771EEBE.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.16-13.19.31:233][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.172 ms (total: 893.561 ms)
+[2026.07.16-13.19.31:291][346]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.19.31:291][346]LogContentValidation: Enabled validators:
+[2026.07.16-13.19.31:291][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.19.31:291][346]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.19.31:291][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.19.31:291][346]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.19.31:291][346]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.19.31:291][346]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.19.31:291][346]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.16-13.19.34:623][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.07.16-13.21.30:727][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1357.830566
+[2026.07.16-13.21.31:027][512]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.16-13.21.31:027][512]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1358.113770, Update Interval: 319.005096
+[2026.07.16-13.22.07:258][815]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.07.16-13.22.07:267][815]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.07.16-13.22.07:274][815]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.07.16-13.22.07:289][816]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.07.16-13.22.15:527][301]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_KixGameMode
+[2026.07.16-13.22.15:535][301]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.07.16-13.22.16:138][336]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_KixGameMode.BP_KixGameMode
+[2026.07.16-13.22.16:138][336]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.07.16-13.22.25:395][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.22.25:453][856]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_KixGameMode] ([2] browsable assets)...
+[2026.07.16-13.22.25:453][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_KixGameMode]
+[2026.07.16-13.22.25:453][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_KixGameMode" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_KixGameMode.uasset" SILENT=true
+[2026.07.16-13.22.25:455][856]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_KixGameMode
+[2026.07.16-13.22.25:455][856]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_KixGameMode02AFCE4A4CB2DD7D8A6AFFA2BB3B8E2B.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_KixGameMode.uasset'
+[2026.07.16-13.22.25:465][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.944 ms (total: 963.506 ms)
+[2026.07.16-13.22.25:523][856]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.22.25:523][856]LogContentValidation: Enabled validators:
+[2026.07.16-13.22.25:523][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.22.25:523][856]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.22.25:523][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.22.25:523][856]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.22.25:523][856]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.22.25:523][856]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.22.25:523][856]AssetCheck: /Game/Blueprints/BP_KixGameMode Validating asset
+[2026.07.16-13.22.25:554][856]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/SourceControl/UncontrolledChangelists.json
+[2026.07.16-13.22.28:314][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.07.16-13.22.36:362][489]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.07.16-13.22.36:376][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.16-13.22.36:387][489]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.07.16-13.22.36:387][489]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.07.16-13.22.36:389][489]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.16-13.22.36:393][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003833s)
+[2026.07.16-13.22.36:393][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JetpackLevel.JetpackLevel to /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel (0.004026s)
+[2026.07.16-13.22.36:413][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.07.16-13.22.36:418][489]LogChaosDD: Creating Chaos Debug Draw Scene for world JetpackLevel
+[2026.07.16-13.22.36:420][489]LogPlayLevel: PIE: World Init took: (0.002866s)
+[2026.07.16-13.22.36:421][489]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.07.16-13.22.36:421][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.16-13.22.36:421][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.16-13.22.36:421][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.16-13.22.36:421][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.16-13.22.36:421][489]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.16-13.22.36:421][489]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.16-13.22.36:421][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.16-13.22.36:421][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.16-13.22.36:421][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.16-13.22.36:421][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.16-13.22.36:421][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.16-13.22.36:423][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.16-13.22.36:523][489]LogAudioMixer: Display: Using Audio Hardware Device Headphones (OnePlus Buds 3)
+[2026.07.16-13.22.36:523][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.16-13.22.36:523][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.16-13.22.36:523][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.16-13.22.36:523][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.07.16-13.22.36:524][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.07.16-13.22.36:525][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.07.16-13.22.36:525][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.07.16-13.22.36:525][489]LogInit: FAudioDevice initialized with ID 2.
+[2026.07.16-13.22.36:525][489]LogAudio: Display: Audio Device (ID: 2) registered with world 'JetpackLevel'.
+[2026.07.16-13.22.36:527][489]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.07.16-13.22.36:532][489]LogLoad: Game class is 'BP_KixGameMode_C'
+[2026.07.16-13.22.36:535][489]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel up for play (max tick rate 60) at 2026.07.16-18.52.36
+[2026.07.16-13.22.36:542][489]LogWorld: Bringing up level for play took: 0.009251
+[2026.07.16-13.22.36:546][489]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.07.16-13.22.36:565][489]PIE: Server logged in
+[2026.07.16-13.22.36:567][489]PIE: Play in editor total start time 0.198 seconds.
+[2026.07.16-13.22.45:211][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.16-13.22.45:211][947]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.16-13.22.45:213][947]LogWorld: UWorld::CleanupWorld for JetpackLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.16-13.22.45:213][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.22.45:218][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.16-13.22.45:224][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.22.45:249][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.16-13.22.45:249][947]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.07.16-13.22.45:251][947]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.07.16-13.22.45:253][947]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.07.16-13.22.45:264][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.07.16-13.22.45:362][948]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.07.16-13.22.49:756][200]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.07.16-13.23.48:949][569]Cmd: DELETE
+[2026.07.16-13.23.48:951][569]Cmd: ACTOR DELETE
+[2026.07.16-13.23.48:962][569]LogEditorActor: Deleted Actor: BP_Kix_C
+[2026.07.16-13.23.48:987][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.07.16-13.23.48:989][569]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.07.16-13.23.50:633][667]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.07.16-13.23.50:639][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.16-13.23.50:639][667]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.16-13.23.50:641][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001612s)
+[2026.07.16-13.23.50:641][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JetpackLevel.JetpackLevel to /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel (0.001644s)
+[2026.07.16-13.23.50:663][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.07.16-13.23.50:666][667]LogChaosDD: Creating Chaos Debug Draw Scene for world JetpackLevel
+[2026.07.16-13.23.50:668][667]LogPlayLevel: PIE: World Init took: (0.001707s)
+[2026.07.16-13.23.50:668][667]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.07.16-13.23.50:668][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.16-13.23.50:668][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.16-13.23.50:668][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.16-13.23.50:668][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.16-13.23.50:668][667]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.16-13.23.50:668][667]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.16-13.23.50:668][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.16-13.23.50:668][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.16-13.23.50:668][667]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.16-13.23.50:668][667]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.16-13.23.50:668][667]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.16-13.23.50:672][667]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.16-13.23.50:759][667]LogAudioMixer: Display: Using Audio Hardware Device Headphones (OnePlus Buds 3)
+[2026.07.16-13.23.50:759][667]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.16-13.23.50:759][667]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.16-13.23.50:759][667]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.16-13.23.50:760][667]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.07.16-13.23.50:760][667]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.07.16-13.23.50:762][667]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.07.16-13.23.50:762][667]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.07.16-13.23.50:762][667]LogInit: FAudioDevice initialized with ID 3.
+[2026.07.16-13.23.50:762][667]LogAudio: Display: Audio Device (ID: 3) registered with world 'JetpackLevel'.
+[2026.07.16-13.23.50:762][667]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.07.16-13.23.50:765][667]LogLoad: Game class is 'BP_KixGameMode_C'
+[2026.07.16-13.23.50:767][667]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel up for play (max tick rate 60) at 2026.07.16-18.53.50
+[2026.07.16-13.23.50:767][667]LogWorld: Bringing up level for play took: 0.000641
+[2026.07.16-13.23.50:769][667]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.07.16-13.23.50:771][667]PIE: Server logged in
+[2026.07.16-13.23.50:773][667]PIE: Play in editor total start time 0.135 seconds.
+[2026.07.16-13.23.57:587][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.16-13.23.57:587][ 72]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.16-13.23.57:587][ 72]LogWorld: UWorld::CleanupWorld for JetpackLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.16-13.23.57:588][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.23.57:588][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.16-13.23.57:592][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.23.57:614][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.16-13.23.57:614][ 72]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.07.16-13.23.57:614][ 72]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.07.16-13.23.57:617][ 72]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.07.16-13.23.57:638][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.07.16-13.23.57:676][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.07.16-13.23.58:870][135]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.07.16-13.23.58:878][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.16-13.23.58:878][135]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.16-13.23.58:879][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001696s)
+[2026.07.16-13.23.58:879][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JetpackLevel.JetpackLevel to /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel (0.001727s)
+[2026.07.16-13.23.58:900][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.07.16-13.23.58:901][135]LogChaosDD: Creating Chaos Debug Draw Scene for world JetpackLevel
+[2026.07.16-13.23.58:904][135]LogPlayLevel: PIE: World Init took: (0.001480s)
+[2026.07.16-13.23.58:905][135]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.07.16-13.23.58:905][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.16-13.23.58:905][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.16-13.23.58:905][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.16-13.23.58:905][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.16-13.23.58:905][135]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.16-13.23.58:905][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.16-13.23.58:905][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.16-13.23.58:905][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.16-13.23.58:905][135]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.16-13.23.58:905][135]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.16-13.23.58:905][135]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.16-13.23.58:907][135]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.16-13.23.59:003][135]LogAudioMixer: Display: Using Audio Hardware Device Headphones (OnePlus Buds 3)
+[2026.07.16-13.23.59:003][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.16-13.23.59:003][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.16-13.23.59:003][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.16-13.23.59:004][135]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.07.16-13.23.59:004][135]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.07.16-13.23.59:007][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.07.16-13.23.59:007][135]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.07.16-13.23.59:007][135]LogInit: FAudioDevice initialized with ID 4.
+[2026.07.16-13.23.59:007][135]LogAudio: Display: Audio Device (ID: 4) registered with world 'JetpackLevel'.
+[2026.07.16-13.23.59:007][135]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.07.16-13.23.59:010][135]LogLoad: Game class is 'BP_KixGameMode_C'
+[2026.07.16-13.23.59:011][135]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel up for play (max tick rate 60) at 2026.07.16-18.53.59
+[2026.07.16-13.23.59:011][135]LogWorld: Bringing up level for play took: 0.000603
+[2026.07.16-13.23.59:013][135]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.07.16-13.23.59:016][135]PIE: Server logged in
+[2026.07.16-13.23.59:017][135]PIE: Play in editor total start time 0.141 seconds.
+[2026.07.16-13.24.19:607][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.16-13.24.19:607][326]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.16-13.24.19:608][326]LogWorld: UWorld::CleanupWorld for JetpackLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.16-13.24.19:608][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.24.19:611][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.16-13.24.19:614][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.24.19:634][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.16-13.24.19:635][326]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.07.16-13.24.19:635][326]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.07.16-13.24.19:637][326]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.07.16-13.24.19:657][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.07.16-13.24.19:680][327]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.07.16-13.24.33:109][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.24.33:205][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.07.16-13.24.33:215][127]LogSavePackage: Moving output files for package: /Game/Maps/JetpackLevel
+[2026.07.16-13.24.33:215][127]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/JetpackLevelEEB9E6D1496B53FFC174A4A158CBA042.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Maps/JetpackLevel.umap'
+[2026.07.16-13.24.33:220][127]LogFileHelpers: Saving map 'JetpackLevel' took 0.050
+[2026.07.16-13.24.33:229][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.065 ms (total: 1.08 sec)
+[2026.07.16-13.24.33:291][127]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.24.33:291][127]LogContentValidation: Enabled validators:
+[2026.07.16-13.24.33:292][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.24.33:292][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.24.33:292][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.24.33:292][127]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.24.33:292][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.24.33:292][127]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.24.33:292][127]AssetCheck: /Game/Maps/JetpackLevel Validating asset
+[2026.07.16-13.24.34:491][197]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.07.16-13.24.34:491][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.24.34:545][197]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.07.16-13.24.34:545][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.24.34:576][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.07.16-13.24.35:067][221]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.07.16-13.24.35:067][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.24.35:098][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.07.16-13.24.35:648][251]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.07.16-13.24.35:648][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.24.35:693][251]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.07.16-13.24.35:693][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.24.35:719][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.07.16-13.24.51:133][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.24.51:193][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.16-13.24.51:201][ 45]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Kix.BP_Kix]
+[2026.07.16-13.24.51:201][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.16-13.24.51:201][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.16-13.24.51:204][ 45]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.16-13.24.51:204][ 45]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_KixD308A5874C2AF7E8527BEBB88C8941EE.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.16-13.24.51:212][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.328 ms (total: 1.16 sec)
+[2026.07.16-13.24.51:271][ 45]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.24.51:271][ 45]LogContentValidation: Enabled validators:
+[2026.07.16-13.24.51:271][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.24.51:271][ 45]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.24.51:271][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.24.51:271][ 45]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.24.51:271][ 45]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.24.51:271][ 45]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.24.51:271][ 45]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.16-13.25.02:339][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.25.02:393][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.16-13.25.02:398][683]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Kix.BP_Kix]
+[2026.07.16-13.25.02:398][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.16-13.25.02:398][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.16-13.25.02:403][683]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.16-13.25.02:403][683]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_KixBD36EB91457B946C0908B5A4C7495368.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.16-13.25.02:411][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.856 ms (total: 1.23 sec)
+[2026.07.16-13.25.02:469][683]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.25.02:469][683]LogContentValidation: Enabled validators:
+[2026.07.16-13.25.02:469][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.25.02:469][683]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.25.02:469][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.25.02:469][683]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.25.02:469][683]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.25.02:469][683]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.25.02:469][683]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.16-13.25.23:353][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.25.23:408][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.16-13.25.23:408][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.16-13.25.23:408][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.16-13.25.23:412][933]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.16-13.25.23:413][933]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_Kix0C118CF24D387057A22BD5A6DBFE7B70.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.16-13.25.23:421][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.865 ms (total: 1.30 sec)
+[2026.07.16-13.25.23:485][933]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.25.23:485][933]LogContentValidation: Enabled validators:
+[2026.07.16-13.25.23:485][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.25.23:485][933]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.25.23:485][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.25.23:485][933]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.25.23:485][933]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.25.23:485][933]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.25.23:485][933]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.16-13.25.25:073][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.07.16-13.25.26:101][ 80]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.07.16-13.25.26:106][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.16-13.25.26:106][ 80]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.16-13.25.26:108][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001851s)
+[2026.07.16-13.25.26:108][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JetpackLevel.JetpackLevel to /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel (0.001893s)
+[2026.07.16-13.25.26:133][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.07.16-13.25.26:136][ 80]LogChaosDD: Creating Chaos Debug Draw Scene for world JetpackLevel
+[2026.07.16-13.25.26:138][ 80]LogPlayLevel: PIE: World Init took: (0.001828s)
+[2026.07.16-13.25.26:139][ 80]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.07.16-13.25.26:139][ 80]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.16-13.25.26:139][ 80]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.16-13.25.26:139][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.16-13.25.26:139][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.16-13.25.26:139][ 80]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.16-13.25.26:139][ 80]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.16-13.25.26:139][ 80]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.16-13.25.26:139][ 80]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.16-13.25.26:139][ 80]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.16-13.25.26:139][ 80]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.16-13.25.26:139][ 80]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.16-13.25.26:141][ 80]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.16-13.25.26:257][ 80]LogAudioMixer: Display: Using Audio Hardware Device Headphones (OnePlus Buds 3)
+[2026.07.16-13.25.26:257][ 80]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.16-13.25.26:257][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.16-13.25.26:257][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.16-13.25.26:257][ 80]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.07.16-13.25.26:257][ 80]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.07.16-13.25.26:261][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.07.16-13.25.26:261][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.07.16-13.25.26:261][ 80]LogInit: FAudioDevice initialized with ID 5.
+[2026.07.16-13.25.26:261][ 80]LogAudio: Display: Audio Device (ID: 5) registered with world 'JetpackLevel'.
+[2026.07.16-13.25.26:261][ 80]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.07.16-13.25.26:264][ 80]LogLoad: Game class is 'BP_KixGameMode_C'
+[2026.07.16-13.25.26:264][ 80]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel up for play (max tick rate 60) at 2026.07.16-18.55.26
+[2026.07.16-13.25.26:264][ 80]LogWorld: Bringing up level for play took: 0.000657
+[2026.07.16-13.25.26:266][ 80]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.07.16-13.25.26:269][ 80]PIE: Server logged in
+[2026.07.16-13.25.26:271][ 80]PIE: Play in editor total start time 0.165 seconds.
+[2026.07.16-13.25.30:038][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.16-13.25.30:038][302]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.16-13.25.30:038][302]LogWorld: UWorld::CleanupWorld for JetpackLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.16-13.25.30:038][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.25.30:040][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.16-13.25.30:042][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.25.30:060][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.16-13.25.30:060][302]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.07.16-13.25.30:060][302]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.07.16-13.25.30:063][302]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.07.16-13.25.30:083][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.07.16-13.25.30:119][304]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.07.16-13.25.34:295][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.25.34:348][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.16-13.25.34:355][554]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Kix.BP_Kix]
+[2026.07.16-13.25.34:355][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.16-13.25.34:355][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.16-13.25.34:359][554]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.16-13.25.34:360][554]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_Kix1C89550F480B266128C494A4B801FE29.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.16-13.25.34:366][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.252 ms (total: 1.37 sec)
+[2026.07.16-13.25.34:425][554]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.25.34:425][554]LogContentValidation: Enabled validators:
+[2026.07.16-13.25.34:425][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.25.34:425][554]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.25.34:425][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.25.34:425][554]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.25.34:425][554]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.25.34:425][554]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.25.34:425][554]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.16-13.25.35:244][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.07.16-13.25.36:113][647]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.07.16-13.25.36:117][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.16-13.25.36:147][647]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.16-13.25.36:148][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001737s)
+[2026.07.16-13.25.36:148][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JetpackLevel.JetpackLevel to /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel (0.001794s)
+[2026.07.16-13.25.36:169][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.07.16-13.25.36:171][647]LogChaosDD: Creating Chaos Debug Draw Scene for world JetpackLevel
+[2026.07.16-13.25.36:172][647]LogPlayLevel: PIE: World Init took: (0.001409s)
+[2026.07.16-13.25.36:173][647]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.07.16-13.25.36:173][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.16-13.25.36:173][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.16-13.25.36:173][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.16-13.25.36:173][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.16-13.25.36:173][647]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.16-13.25.36:173][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.16-13.25.36:173][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.16-13.25.36:173][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.16-13.25.36:173][647]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.16-13.25.36:173][647]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.16-13.25.36:173][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.16-13.25.36:175][647]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.16-13.25.36:293][647]LogAudioMixer: Display: Using Audio Hardware Device Headphones (OnePlus Buds 3)
+[2026.07.16-13.25.36:293][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.16-13.25.36:293][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.16-13.25.36:293][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.16-13.25.36:293][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.07.16-13.25.36:293][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.07.16-13.25.36:295][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.07.16-13.25.36:295][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.07.16-13.25.36:295][647]LogInit: FAudioDevice initialized with ID 6.
+[2026.07.16-13.25.36:295][647]LogAudio: Display: Audio Device (ID: 6) registered with world 'JetpackLevel'.
+[2026.07.16-13.25.36:295][647]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.07.16-13.25.36:300][647]LogLoad: Game class is 'BP_KixGameMode_C'
+[2026.07.16-13.25.36:300][647]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel up for play (max tick rate 60) at 2026.07.16-18.55.36
+[2026.07.16-13.25.36:300][647]LogWorld: Bringing up level for play took: 0.000586
+[2026.07.16-13.25.36:302][647]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.07.16-13.25.36:304][647]PIE: Server logged in
+[2026.07.16-13.25.36:307][647]PIE: Play in editor total start time 0.189 seconds.
+[2026.07.16-13.25.40:448][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.16-13.25.40:448][891]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.16-13.25.40:448][891]LogWorld: UWorld::CleanupWorld for JetpackLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.16-13.25.40:448][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.25.40:450][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.16-13.25.40:453][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.16-13.25.40:472][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.16-13.25.40:472][891]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.07.16-13.25.40:472][891]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.07.16-13.25.40:474][891]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.07.16-13.25.40:494][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.07.16-13.25.40:519][892]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.07.16-13.25.44:469][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.16-13.25.44:522][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.16-13.25.44:528][127]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Kix.BP_Kix]
+[2026.07.16-13.25.44:528][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.16-13.25.44:528][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.16-13.25.44:531][127]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.16-13.25.44:531][127]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_KixC86A9FE04E1F1CFB75338092A414ACE9.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.16-13.25.44:538][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.888 ms (total: 1.44 sec)
+[2026.07.16-13.25.44:598][127]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.16-13.25.44:598][127]LogContentValidation: Enabled validators:
+[2026.07.16-13.25.44:598][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.16-13.25.44:598][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.16-13.25.44:598][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.16-13.25.44:598][127]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.16-13.25.44:598][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.16-13.25.44:598][127]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.16-13.25.44:598][127]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.16-13.26.28:222][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.07.16-13.27.10:135][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1697.238770
+[2026.07.16-13.27.11:136][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.16-13.27.11:136][683]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1697.906128, Update Interval: 336.158936
