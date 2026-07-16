@@ -7,7 +7,12 @@
 			"files": [
 				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset",
 				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Maps/JetpackLevel.umap",
-				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_KixGameMode.uasset"
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_KixGameMode.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Input/IA_Look.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Input/IMC_MovementAndLook.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Input/IMC_KixMovement.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_KixController.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Input/IA_Move.uasset"
 			]
 		}
 	]
