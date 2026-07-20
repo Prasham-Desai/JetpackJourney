@@ -1750,3 +1750,1073 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.07.17-12.48.28:472][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.07.17-12.48.28:533][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
 [2026.07.17-12.48.29:209][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.07.17-12.49.13:558][788]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2026.07.17-12.49.13:584][788]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2026.07.17-12.49.13:593][788]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2026.07.17-12.49.13:597][788]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3243.140869
+[2026.07.17-12.49.13:609][789]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2026.07.17-12.49.14:069][804]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.17-12.49.14:070][804]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3243.595947, Update Interval: 335.439331
+[2026.07.17-12.50.07:280][997]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Kix
+[2026.07.17-12.50.07:301][997]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2026.07.17-12.50.07:303][997]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.07.17-12.50.08:276][ 54]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/ABP_Kix.ABP_Kix
+[2026.07.17-12.50.08:277][ 54]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.07.17-12.50.08:285][ 54]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.07.17-12.50.08:292][ 54]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.07.17-12.50.08:591][ 54]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.07.17-12.50.10:470][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-12.50.10:534][140]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ABP_Kix] ([2] browsable assets)...
+[2026.07.17-12.50.10:540][140]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/ABP_Kix.ABP_Kix]
+[2026.07.17-12.50.10:540][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ABP_Kix]
+[2026.07.17-12.50.10:540][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset" SILENT=true
+[2026.07.17-12.50.10:546][140]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Kix
+[2026.07.17-12.50.10:546][140]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/ABP_KixFD3CA06A4C60D2C3EB190D848A1A85EE.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset'
+[2026.07.17-12.50.10:557][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.351 ms (total: 640.023 ms)
+[2026.07.17-12.50.10:619][140]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-12.50.10:619][140]LogContentValidation: Enabled validators:
+[2026.07.17-12.50.10:619][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-12.50.10:619][140]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-12.50.10:619][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-12.50.10:619][140]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-12.50.10:619][140]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-12.50.10:619][140]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-12.50.10:619][140]AssetCheck: /Game/Blueprints/ABP_Kix Validating asset
+[2026.07.17-12.50.10:638][140]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/SourceControl/UncontrolledChangelists.json
+[2026.07.17-12.50.32:429][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-12.50.32:486][359]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ABP_Kix] ([2] browsable assets)...
+[2026.07.17-12.50.32:493][359]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/ABP_Kix.ABP_Kix]
+[2026.07.17-12.50.32:493][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ABP_Kix]
+[2026.07.17-12.50.32:493][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset" SILENT=true
+[2026.07.17-12.50.32:497][359]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Kix
+[2026.07.17-12.50.32:497][359]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/ABP_Kix72184219461F7177BA0C058F09234E9D.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset'
+[2026.07.17-12.50.32:505][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.061 ms (total: 715.085 ms)
+[2026.07.17-12.50.32:567][359]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-12.50.32:567][359]LogContentValidation: Enabled validators:
+[2026.07.17-12.50.32:567][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-12.50.32:567][359]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-12.50.32:567][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-12.50.32:567][359]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-12.50.32:567][359]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-12.50.32:567][359]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-12.50.32:567][359]AssetCheck: /Game/Blueprints/ABP_Kix Validating asset
+[2026.07.17-12.50.33:488][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.07.17-12.50.38:294][697]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2026.07.17-12.50.40:582][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-12.50.40:637][827]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.17-12.50.40:643][827]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Kix.BP_Kix]
+[2026.07.17-12.50.40:643][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.17-12.50.40:643][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.17-12.50.40:647][827]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.17-12.50.40:648][827]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_Kix682BEFB5491441FEC6087297DB19CB05.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.17-12.50.40:655][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.278 ms (total: 788.363 ms)
+[2026.07.17-12.50.40:716][827]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-12.50.40:716][827]LogContentValidation: Enabled validators:
+[2026.07.17-12.50.40:716][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-12.50.40:716][827]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-12.50.40:716][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-12.50.40:716][827]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-12.50.40:716][827]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-12.50.40:716][827]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-12.50.40:716][827]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.17-12.50.46:543][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-12.50.46:597][171]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ABP_Kix] ([2] browsable assets)...
+[2026.07.17-12.50.46:606][171]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/ABP_Kix.ABP_Kix]
+[2026.07.17-12.50.46:606][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ABP_Kix]
+[2026.07.17-12.50.46:606][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset" SILENT=true
+[2026.07.17-12.50.46:609][171]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Kix
+[2026.07.17-12.50.46:609][171]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/ABP_KixD5050EC349FA8857AED08DBD17F64BAC.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset'
+[2026.07.17-12.50.46:618][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.749 ms (total: 862.113 ms)
+[2026.07.17-12.50.46:676][171]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-12.50.46:676][171]LogContentValidation: Enabled validators:
+[2026.07.17-12.50.46:676][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-12.50.46:676][171]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-12.50.46:676][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-12.50.46:676][171]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-12.50.46:676][171]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-12.50.46:676][171]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-12.50.46:676][171]AssetCheck: /Game/Blueprints/ABP_Kix Validating asset
+[2026.07.17-12.51.05:901][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.07.17-12.51.08:502][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-12.51.08:556][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.17-12.51.08:561][435]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Kix.BP_Kix]
+[2026.07.17-12.51.08:561][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.17-12.51.08:561][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.17-12.51.08:565][435]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.17-12.51.08:565][435]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_Kix5EB57BCF4D4A928EEA685E99B7D62D07.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.17-12.51.08:574][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.409 ms (total: 933.523 ms)
+[2026.07.17-12.51.08:630][435]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-12.51.08:630][435]LogContentValidation: Enabled validators:
+[2026.07.17-12.51.08:630][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-12.51.08:630][435]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-12.51.08:630][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-12.51.08:630][435]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-12.51.08:630][435]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-12.51.08:630][435]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-12.51.08:630][435]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.17-12.51.11:726][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-12.51.11:779][620]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ABP_Kix] ([2] browsable assets)...
+[2026.07.17-12.51.11:787][620]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/ABP_Kix.ABP_Kix]
+[2026.07.17-12.51.11:787][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ABP_Kix]
+[2026.07.17-12.51.11:787][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset" SILENT=true
+[2026.07.17-12.51.11:791][620]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Kix
+[2026.07.17-12.51.11:791][620]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/ABP_KixEBFBB3D5456EEDFC44CED1AE2FC6627E.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset'
+[2026.07.17-12.51.11:799][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.274 ms (total: 1.00 sec)
+[2026.07.17-12.51.11:857][620]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-12.51.11:857][620]LogContentValidation: Enabled validators:
+[2026.07.17-12.51.11:857][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-12.51.11:857][620]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-12.51.11:857][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-12.51.11:857][620]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-12.51.11:857][620]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-12.51.11:857][620]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-12.51.11:857][620]AssetCheck: /Game/Blueprints/ABP_Kix Validating asset
+[2026.07.17-12.51.45:372][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.07.17-12.51.45:374][605]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/JetpackLevel' took 0.028
+[2026.07.17-12.51.45:375][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ABP_Kix] ([2] browsable assets)...
+[2026.07.17-12.51.45:375][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ABP_Kix]
+[2026.07.17-12.51.45:379][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/ABP_Kix_Auto1
+[2026.07.17-12.51.45:379][605]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/ABP_Kix_Auto164443A81410F131161699DB139AC4E25.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/Autosaves/Game/Blueprints/ABP_Kix_Auto1.uasset'
+[2026.07.17-12.51.45:379][605]LogFileHelpers: Auto-saving content packages took 0.005
+[2026.07.17-12.55.20:459][509]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3609.992188
+[2026.07.17-12.55.20:825][531]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.17-12.55.20:825][531]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3610.342285, Update Interval: 359.520264
+[2026.07.17-12.57.05:143][648]LogDerivedDataCache: C:/Users/prash/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.07.17-12.59.12:525][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-12.59.12:575][106]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ABP_Kix] ([2] browsable assets)...
+[2026.07.17-12.59.12:582][106]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/ABP_Kix.ABP_Kix]
+[2026.07.17-12.59.12:582][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ABP_Kix]
+[2026.07.17-12.59.12:582][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset" SILENT=true
+[2026.07.17-12.59.12:591][106]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Kix
+[2026.07.17-12.59.12:591][106]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/ABP_KixBB7CED32406AB55C05174896A8E5CB24.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset'
+[2026.07.17-12.59.12:599][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.970 ms (total: 1.08 sec)
+[2026.07.17-12.59.12:662][106]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-12.59.12:662][106]LogContentValidation: Enabled validators:
+[2026.07.17-12.59.12:662][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-12.59.12:662][106]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-12.59.12:662][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-12.59.12:662][106]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-12.59.12:662][106]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-12.59.12:662][106]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-12.59.12:662][106]AssetCheck: /Game/Blueprints/ABP_Kix Validating asset
+[2026.07.17-12.59.46:890][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-12.59.46:946][406]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ABP_Kix] ([2] browsable assets)...
+[2026.07.17-12.59.46:953][406]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/ABP_Kix.ABP_Kix]
+[2026.07.17-12.59.46:953][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ABP_Kix]
+[2026.07.17-12.59.46:953][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset" SILENT=true
+[2026.07.17-12.59.46:958][406]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Kix
+[2026.07.17-12.59.46:958][406]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/ABP_Kix3D6F557D4BF1F4D58D2074833E38A68D.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset'
+[2026.07.17-12.59.46:966][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.093 ms (total: 1.15 sec)
+[2026.07.17-12.59.47:027][406]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-12.59.47:027][406]LogContentValidation: Enabled validators:
+[2026.07.17-12.59.47:027][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-12.59.47:027][406]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-12.59.47:027][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-12.59.47:027][406]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-12.59.47:027][406]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-12.59.47:027][406]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-12.59.47:027][406]AssetCheck: /Game/Blueprints/ABP_Kix Validating asset
+[2026.07.17-13.00.26:602][662]LogStreaming: Display: FlushAsyncLoading(536): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.17-13.00.26:607][662]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Kix/Animations/A_Kix_WalkForward.A_Kix_WalkForward (Required Memory Estimate: 0.63 MB)
+[2026.07.17-13.00.26:616][662]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Kix/Animations/A_Kix_WalkForward.A_Kix_WalkForward, at AnimationSequence/bec033543ed8beec13ce2c91240fcdaafbd88e91
+[2026.07.17-13.00.39:595][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-13.00.39:647][426]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ABP_Kix] ([2] browsable assets)...
+[2026.07.17-13.00.39:653][426]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/ABP_Kix.ABP_Kix]
+[2026.07.17-13.00.39:653][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ABP_Kix]
+[2026.07.17-13.00.39:653][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset" SILENT=true
+[2026.07.17-13.00.39:660][426]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Kix
+[2026.07.17-13.00.39:660][426]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/ABP_Kix881035C24BA16C9271765299B78AF554.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset'
+[2026.07.17-13.00.39:669][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.163 ms (total: 1.23 sec)
+[2026.07.17-13.00.39:722][426]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-13.00.39:722][426]LogContentValidation: Enabled validators:
+[2026.07.17-13.00.39:722][426]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-13.00.39:722][426]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-13.00.39:722][426]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-13.00.39:722][426]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-13.00.39:722][426]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-13.00.39:722][426]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-13.00.39:722][426]AssetCheck: /Game/Blueprints/ABP_Kix Validating asset
+[2026.07.17-13.00.40:815][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.07.17-13.00.40:826][488]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_79
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.00.40:826][488]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_79
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.00.40:828][488]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.00.40:828][488]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.00.40:870][489]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.00.40:870][489]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.00.40:887][490]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_80
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.00.40:887][490]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_80
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.00.40:888][490]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.00.40:888][490]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.00.40:904][491]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.00.40:904][491]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.00.40:920][492]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.00.40:920][492]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.00.40:937][493]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.00.40:937][493]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.00.40:954][494]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.00.40:954][494]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.00.40:970][495]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.00.40:970][495]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Kix_C_0
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.00.43:099][620]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.07.17-13.00.43:106][620]LogPlayLevel: [PlayLevel] Compiling BP_Kix before play...
+[2026.07.17-13.00.43:205][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.07.17-13.00.43:207][620]LogPlayLevel: PlayLevel: Blueprint regeneration took 101 ms (1 blueprints)
+[2026.07.17-13.00.43:207][620]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.17-13.00.43:209][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001583s)
+[2026.07.17-13.00.43:209][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JetpackLevel.JetpackLevel to /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel (0.001614s)
+[2026.07.17-13.00.43:230][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.07.17-13.00.43:231][620]LogChaosDD: Creating Chaos Debug Draw Scene for world JetpackLevel
+[2026.07.17-13.00.43:233][620]LogPlayLevel: PIE: World Init took: (0.001688s)
+[2026.07.17-13.00.43:233][620]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.07.17-13.00.43:233][620]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.17-13.00.43:233][620]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.17-13.00.43:233][620]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.17-13.00.43:233][620]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.17-13.00.43:233][620]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.17-13.00.43:233][620]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.17-13.00.43:233][620]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.17-13.00.43:233][620]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.17-13.00.43:233][620]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.17-13.00.43:233][620]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.17-13.00.43:233][620]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.17-13.00.43:236][620]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.17-13.00.43:263][620]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G50F (HD Audio Driver for Display Audio)
+[2026.07.17-13.00.43:264][620]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.17-13.00.43:264][620]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.17-13.00.43:264][620]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.17-13.00.43:266][620]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.07.17-13.00.43:266][620]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.07.17-13.00.43:268][620]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.07.17-13.00.43:268][620]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.07.17-13.00.43:268][620]LogInit: FAudioDevice initialized with ID 10.
+[2026.07.17-13.00.43:268][620]LogAudio: Display: Audio Device (ID: 10) registered with world 'JetpackLevel'.
+[2026.07.17-13.00.43:268][620]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.07.17-13.00.43:271][620]LogLoad: Game class is 'BP_KixGameMode_C'
+[2026.07.17-13.00.43:272][620]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel up for play (max tick rate 60) at 2026.07.17-18.30.43
+[2026.07.17-13.00.43:272][620]LogWorld: Bringing up level for play took: 0.000711
+[2026.07.17-13.00.43:274][620]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.07.17-13.00.43:277][620]PIE: Server logged in
+[2026.07.17-13.00.43:279][620]PIE: Play in editor total start time 0.174 seconds.
+[2026.07.17-13.00.50:449][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.17-13.00.50:449][981]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.17-13.00.50:449][981]LogWorld: UWorld::CleanupWorld for JetpackLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.00.50:450][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.00.50:452][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.17-13.00.50:454][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.00.50:477][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.17-13.00.50:477][981]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.07.17-13.00.50:477][981]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.07.17-13.00.50:479][981]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.07.17-13.00.50:484][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.07.17-13.00.50:587][982]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.07.17-13.00.52:675][ 90]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/Kix/Animations/A_Kix_WalkForward.A_Kix_WalkForward
+[2026.07.17-13.00.52:675][ 90]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.07.17-13.00.52:683][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.07.17-13.00.52:905][ 90]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.07.17-13.00.53:311][ 90]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.07.17-13.00.56:134][238]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.00.56:134][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.00.56:141][238]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.00.56:141][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.00.56:169][238]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.00.56:169][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.00.56:213][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.07.17-13.01.03:227][654]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_81
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.01.03:227][654]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_81
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.01.03:243][655]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_82
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.01.03:243][655]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_82
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.01.03:260][656]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_83
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.01.03:260][656]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_83
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.01.03:276][657]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_84
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.01.03:276][657]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_84
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.01.03:293][658]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_85
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.01.03:293][658]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_85
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.01.21:293][628]LogStreaming: Display: FlushAsyncLoading(537): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.17-13.01.21:297][628]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Kix/Animations/A_Kix_RunForward.A_Kix_RunForward (Required Memory Estimate: 0.64 MB)
+[2026.07.17-13.01.21:306][628]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Kix/Animations/A_Kix_RunForward.A_Kix_RunForward, at AnimationSequence/5a4af0e613c8279ef210d237b8a68621cba885c8
+[2026.07.17-13.01.33:789][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-13.01.33:839][360]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ABP_Kix] ([2] browsable assets)...
+[2026.07.17-13.01.33:839][360]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_86
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.01.33:839][360]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_86
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.01.33:839][360]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_86
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.01.33:839][360]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_86
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.01.33:844][360]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/ABP_Kix.ABP_Kix]
+[2026.07.17-13.01.33:844][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ABP_Kix]
+[2026.07.17-13.01.33:844][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset" SILENT=true
+[2026.07.17-13.01.33:855][360]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Kix
+[2026.07.17-13.01.33:855][360]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/ABP_KixDD375DA94F3441B144BA29B6BE81A72B.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset'
+[2026.07.17-13.01.33:862][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.211 ms (total: 1.30 sec)
+[2026.07.17-13.01.33:925][360]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-13.01.33:925][360]LogContentValidation: Enabled validators:
+[2026.07.17-13.01.33:925][360]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-13.01.33:925][360]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-13.01.33:925][360]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-13.01.33:925][360]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-13.01.33:925][360]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-13.01.33:925][360]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-13.01.33:925][360]AssetCheck: /Game/Blueprints/ABP_Kix Validating asset
+[2026.07.17-13.01.34:615][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.07.17-13.01.35:906][474]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.07.17-13.01.35:911][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.17-13.01.35:912][474]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.17-13.01.35:913][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001627s)
+[2026.07.17-13.01.35:913][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JetpackLevel.JetpackLevel to /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel (0.001654s)
+[2026.07.17-13.01.35:939][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.07.17-13.01.35:940][474]LogChaosDD: Creating Chaos Debug Draw Scene for world JetpackLevel
+[2026.07.17-13.01.35:942][474]LogPlayLevel: PIE: World Init took: (0.001475s)
+[2026.07.17-13.01.35:942][474]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.07.17-13.01.35:942][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.17-13.01.35:942][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.17-13.01.35:942][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.17-13.01.35:942][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.17-13.01.35:942][474]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.17-13.01.35:942][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.17-13.01.35:942][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.17-13.01.35:942][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.17-13.01.35:942][474]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.17-13.01.35:942][474]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.17-13.01.35:942][474]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.17-13.01.35:944][474]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.17-13.01.35:974][474]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G50F (HD Audio Driver for Display Audio)
+[2026.07.17-13.01.35:974][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.17-13.01.35:974][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.17-13.01.35:974][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.17-13.01.35:974][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.07.17-13.01.35:974][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.07.17-13.01.35:977][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.07.17-13.01.35:977][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.07.17-13.01.35:977][474]LogInit: FAudioDevice initialized with ID 11.
+[2026.07.17-13.01.35:977][474]LogAudio: Display: Audio Device (ID: 11) registered with world 'JetpackLevel'.
+[2026.07.17-13.01.35:977][474]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.07.17-13.01.35:981][474]LogLoad: Game class is 'BP_KixGameMode_C'
+[2026.07.17-13.01.35:981][474]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel up for play (max tick rate 60) at 2026.07.17-18.31.35
+[2026.07.17-13.01.35:981][474]LogWorld: Bringing up level for play took: 0.000608
+[2026.07.17-13.01.35:984][474]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.07.17-13.01.35:986][474]PIE: Server logged in
+[2026.07.17-13.01.35:987][474]PIE: Play in editor total start time 0.077 seconds.
+[2026.07.17-13.01.58:200][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.17-13.01.58:200][793]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.17-13.01.58:200][793]LogWorld: UWorld::CleanupWorld for JetpackLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.01.58:200][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.01.58:202][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.17-13.01.58:204][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.01.58:226][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.17-13.01.58:226][793]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.07.17-13.01.58:226][793]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.07.17-13.01.58:229][793]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.07.17-13.01.58:236][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.07.17-13.01.58:319][794]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.07.17-13.02.10:327][437]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4019.847900
+[2026.07.17-13.02.10:645][456]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.17-13.02.10:645][456]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4020.148438, Update Interval: 325.587952
+[2026.07.17-13.02.13:962][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-13.02.14:019][655]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.17-13.02.14:025][655]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Kix.BP_Kix]
+[2026.07.17-13.02.14:025][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.17-13.02.14:025][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.17-13.02.14:029][655]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.17-13.02.14:029][655]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_Kix95003DE342B23812CE0430A94A136FF9.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.17-13.02.14:037][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.903 ms (total: 1.37 sec)
+[2026.07.17-13.02.14:102][655]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-13.02.14:102][655]LogContentValidation: Enabled validators:
+[2026.07.17-13.02.14:102][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-13.02.14:102][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-13.02.14:102][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-13.02.14:102][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-13.02.14:102][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-13.02.14:102][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-13.02.14:102][655]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.17-13.02.14:574][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.07.17-13.02.15:942][759]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.07.17-13.02.15:950][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.17-13.02.15:951][759]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.17-13.02.15:953][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001931s)
+[2026.07.17-13.02.15:953][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JetpackLevel.JetpackLevel to /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel (0.001967s)
+[2026.07.17-13.02.15:978][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.07.17-13.02.15:982][759]LogChaosDD: Creating Chaos Debug Draw Scene for world JetpackLevel
+[2026.07.17-13.02.15:984][759]LogPlayLevel: PIE: World Init took: (0.001620s)
+[2026.07.17-13.02.15:984][759]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.07.17-13.02.15:984][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.17-13.02.15:984][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.17-13.02.15:984][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.17-13.02.15:984][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.17-13.02.15:984][759]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.17-13.02.15:984][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.17-13.02.15:984][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.17-13.02.15:984][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.17-13.02.15:984][759]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.17-13.02.15:984][759]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.17-13.02.15:985][759]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.17-13.02.15:987][759]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.17-13.02.16:017][759]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G50F (HD Audio Driver for Display Audio)
+[2026.07.17-13.02.16:017][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.17-13.02.16:017][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.17-13.02.16:017][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.17-13.02.16:019][759]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.07.17-13.02.16:019][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.07.17-13.02.16:021][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.07.17-13.02.16:021][759]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.07.17-13.02.16:021][759]LogInit: FAudioDevice initialized with ID 12.
+[2026.07.17-13.02.16:021][759]LogAudio: Display: Audio Device (ID: 12) registered with world 'JetpackLevel'.
+[2026.07.17-13.02.16:021][759]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.07.17-13.02.16:024][759]LogLoad: Game class is 'BP_KixGameMode_C'
+[2026.07.17-13.02.16:025][759]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel up for play (max tick rate 60) at 2026.07.17-18.32.16
+[2026.07.17-13.02.16:025][759]LogWorld: Bringing up level for play took: 0.000703
+[2026.07.17-13.02.16:028][759]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.07.17-13.02.16:031][759]PIE: Server logged in
+[2026.07.17-13.02.16:033][759]PIE: Play in editor total start time 0.082 seconds.
+[2026.07.17-13.02.18:139][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.17-13.02.18:139][881]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.17-13.02.18:139][881]LogWorld: UWorld::CleanupWorld for JetpackLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.02.18:140][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.02.18:141][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.17-13.02.18:144][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.02.18:164][881]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.07.17-13.02.18:164][881]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.07.17-13.02.18:164][881]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.07.17-13.02.18:167][881]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.07.17-13.02.18:171][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.17-13.02.18:172][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.07.17-13.02.18:239][882]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.07.17-13.02.23:952][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-13.02.24:011][203]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Kix] ([2] browsable assets)...
+[2026.07.17-13.02.24:017][203]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Kix.BP_Kix]
+[2026.07.17-13.02.24:017][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Kix]
+[2026.07.17-13.02.24:017][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset" SILENT=true
+[2026.07.17-13.02.24:022][203]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Kix
+[2026.07.17-13.02.24:022][203]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BP_Kix8336555F4E7B4F550E2AC29F2062A7D7.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_Kix.uasset'
+[2026.07.17-13.02.24:032][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.467 ms (total: 1.45 sec)
+[2026.07.17-13.02.24:094][203]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-13.02.24:094][203]LogContentValidation: Enabled validators:
+[2026.07.17-13.02.24:094][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-13.02.24:094][203]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-13.02.24:094][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-13.02.24:094][203]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-13.02.24:094][203]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-13.02.24:094][203]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-13.02.24:094][203]AssetCheck: /Game/Blueprints/BP_Kix Validating asset
+[2026.07.17-13.02.24:487][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.07.17-13.02.25:563][284]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.07.17-13.02.25:568][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.17-13.02.25:589][284]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.17-13.02.25:591][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001706s)
+[2026.07.17-13.02.25:591][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JetpackLevel.JetpackLevel to /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel (0.001753s)
+[2026.07.17-13.02.25:614][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.07.17-13.02.25:617][284]LogChaosDD: Creating Chaos Debug Draw Scene for world JetpackLevel
+[2026.07.17-13.02.25:618][284]LogPlayLevel: PIE: World Init took: (0.001609s)
+[2026.07.17-13.02.25:619][284]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.07.17-13.02.25:619][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.17-13.02.25:619][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.17-13.02.25:619][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.17-13.02.25:619][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.17-13.02.25:619][284]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.17-13.02.25:619][284]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.17-13.02.25:619][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.17-13.02.25:619][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.17-13.02.25:619][284]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.17-13.02.25:619][284]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.17-13.02.25:619][284]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.17-13.02.25:622][284]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.17-13.02.25:651][284]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G50F (HD Audio Driver for Display Audio)
+[2026.07.17-13.02.25:651][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.17-13.02.25:651][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.17-13.02.25:651][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.17-13.02.25:651][284]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.07.17-13.02.25:651][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.07.17-13.02.25:654][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.07.17-13.02.25:654][284]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.07.17-13.02.25:654][284]LogInit: FAudioDevice initialized with ID 13.
+[2026.07.17-13.02.25:654][284]LogAudio: Display: Audio Device (ID: 13) registered with world 'JetpackLevel'.
+[2026.07.17-13.02.25:654][284]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.07.17-13.02.25:658][284]LogLoad: Game class is 'BP_KixGameMode_C'
+[2026.07.17-13.02.25:659][284]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel up for play (max tick rate 60) at 2026.07.17-18.32.25
+[2026.07.17-13.02.25:659][284]LogWorld: Bringing up level for play took: 0.000603
+[2026.07.17-13.02.25:661][284]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.07.17-13.02.25:664][284]PIE: Server logged in
+[2026.07.17-13.02.25:666][284]PIE: Play in editor total start time 0.098 seconds.
+[2026.07.17-13.02.33:780][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.17-13.02.33:780][768]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.17-13.02.33:780][768]LogWorld: UWorld::CleanupWorld for JetpackLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.02.33:780][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.02.33:782][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.17-13.02.33:785][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.02.33:805][768]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.07.17-13.02.33:805][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.07.17-13.02.33:805][768]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.07.17-13.02.33:807][768]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.07.17-13.02.33:812][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.17-13.02.33:814][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.07.17-13.02.33:879][769]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.07.17-13.06.04:031][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.07.17-13.06.48:162][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-13.06.48:222][830]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ABP_Kix] ([2] browsable assets)...
+[2026.07.17-13.06.48:222][830]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_87
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.06.48:222][830]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_87
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.06.48:222][830]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_87
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.06.48:222][830]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_87
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.06.48:242][830]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/ABP_Kix.ABP_Kix]
+[2026.07.17-13.06.48:242][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ABP_Kix]
+[2026.07.17-13.06.48:242][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset" SILENT=true
+[2026.07.17-13.06.48:250][830]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Kix
+[2026.07.17-13.06.48:251][830]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/ABP_Kix4BC5669D4E66F1B535178AB07579AF74.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset'
+[2026.07.17-13.06.48:259][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.748 ms (total: 1.55 sec)
+[2026.07.17-13.06.48:325][830]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-13.06.48:325][830]LogContentValidation: Enabled validators:
+[2026.07.17-13.06.48:325][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-13.06.48:325][830]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-13.06.48:325][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-13.06.48:325][830]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-13.06.48:325][830]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-13.06.48:325][830]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-13.06.48:325][830]AssetCheck: /Game/Blueprints/ABP_Kix Validating asset
+[2026.07.17-13.06.55:731][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-13.06.55:792][272]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ABP_Kix] ([2] browsable assets)...
+[2026.07.17-13.06.55:792][272]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_88
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.06.55:792][272]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_88
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.06.55:792][272]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_88
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:002E
+[2026.07.17-13.06.55:792][272]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_88
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:CheckIsVelocityZero:0065
+[2026.07.17-13.06.55:799][272]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/ABP_Kix.ABP_Kix]
+[2026.07.17-13.06.55:799][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ABP_Kix]
+[2026.07.17-13.06.55:799][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset" SILENT=true
+[2026.07.17-13.06.55:807][272]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Kix
+[2026.07.17-13.06.55:807][272]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/ABP_Kix061C861E465870EF9B89A382EFADD0F3.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset'
+[2026.07.17-13.06.55:816][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.074 ms (total: 1.64 sec)
+[2026.07.17-13.06.55:875][272]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-13.06.55:875][272]LogContentValidation: Enabled validators:
+[2026.07.17-13.06.55:875][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-13.06.55:875][272]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-13.06.55:875][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-13.06.55:875][272]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-13.06.55:875][272]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-13.06.55:875][272]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-13.06.55:875][272]AssetCheck: /Game/Blueprints/ABP_Kix Validating asset
+[2026.07.17-13.06.56:703][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.07.17-13.06.57:843][383]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.07.17-13.06.57:847][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.17-13.06.57:849][383]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.17-13.06.57:851][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001859s)
+[2026.07.17-13.06.57:851][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JetpackLevel.JetpackLevel to /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel (0.001890s)
+[2026.07.17-13.06.57:871][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.07.17-13.06.57:873][383]LogChaosDD: Creating Chaos Debug Draw Scene for world JetpackLevel
+[2026.07.17-13.06.57:875][383]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2026.07.17-13.06.57:875][383]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.07.17-13.06.57:875][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.17-13.06.57:875][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.17-13.06.57:875][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.17-13.06.57:875][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.17-13.06.57:875][383]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.17-13.06.57:875][383]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.17-13.06.57:875][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.17-13.06.57:875][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.17-13.06.57:875][383]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.17-13.06.57:875][383]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.17-13.06.57:875][383]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.17-13.06.57:879][383]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.17-13.06.57:908][383]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G50F (HD Audio Driver for Display Audio)
+[2026.07.17-13.06.57:908][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.17-13.06.57:908][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.17-13.06.57:908][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.17-13.06.57:908][383]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.07.17-13.06.57:908][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.07.17-13.06.57:912][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.07.17-13.06.57:912][383]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.07.17-13.06.57:912][383]LogInit: FAudioDevice initialized with ID 14.
+[2026.07.17-13.06.57:912][383]LogAudio: Display: Audio Device (ID: 14) registered with world 'JetpackLevel'.
+[2026.07.17-13.06.57:912][383]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.07.17-13.06.57:916][383]LogLoad: Game class is 'BP_KixGameMode_C'
+[2026.07.17-13.06.57:917][383]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel up for play (max tick rate 60) at 2026.07.17-18.36.57
+[2026.07.17-13.06.57:917][383]LogWorld: Bringing up level for play took: 0.000580
+[2026.07.17-13.06.57:919][383]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.07.17-13.06.57:921][383]PIE: Server logged in
+[2026.07.17-13.06.57:923][383]PIE: Play in editor total start time 0.075 seconds.
+[2026.07.17-13.07.53:910][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.17-13.07.53:910][719]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.17-13.07.53:910][719]LogWorld: UWorld::CleanupWorld for JetpackLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.07.53:911][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.07.53:912][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.17-13.07.53:916][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.07.53:937][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.17-13.07.53:937][719]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.07.17-13.07.53:937][719]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.07.17-13.07.53:940][719]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.07.17-13.07.53:947][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.07.17-13.07.54:016][720]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.07.17-13.08.22:444][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4391.929688
+[2026.07.17-13.08.22:743][431]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.17-13.08.22:743][431]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4392.212402, Update Interval: 309.875183
+[2026.07.17-13.14.07:045][584]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4736.523438
+[2026.07.17-13.14.08:046][587]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.17-13.14.08:046][587]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4737.189941, Update Interval: 338.442322
+[2026.07.17-13.16.45:258][220]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.07.17-13.16.45:263][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.17-13.16.45:263][220]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.17-13.16.45:265][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001914s)
+[2026.07.17-13.16.45:265][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JetpackLevel.JetpackLevel to /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel (0.001953s)
+[2026.07.17-13.16.45:293][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.07.17-13.16.45:295][220]LogChaosDD: Creating Chaos Debug Draw Scene for world JetpackLevel
+[2026.07.17-13.16.45:296][220]LogPlayLevel: PIE: World Init took: (0.001897s)
+[2026.07.17-13.16.45:297][220]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.07.17-13.16.45:297][220]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.17-13.16.45:297][220]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.17-13.16.45:297][220]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.17-13.16.45:297][220]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.17-13.16.45:297][220]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.17-13.16.45:297][220]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.17-13.16.45:297][220]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.17-13.16.45:297][220]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.17-13.16.45:297][220]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.17-13.16.45:297][220]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.17-13.16.45:297][220]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.17-13.16.45:299][220]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.17-13.16.45:327][220]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G50F (HD Audio Driver for Display Audio)
+[2026.07.17-13.16.45:327][220]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.17-13.16.45:327][220]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.17-13.16.45:327][220]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.17-13.16.45:328][220]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.07.17-13.16.45:328][220]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.07.17-13.16.45:331][220]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.07.17-13.16.45:331][220]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.07.17-13.16.45:331][220]LogInit: FAudioDevice initialized with ID 15.
+[2026.07.17-13.16.45:331][220]LogAudio: Display: Audio Device (ID: 15) registered with world 'JetpackLevel'.
+[2026.07.17-13.16.45:331][220]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.07.17-13.16.45:335][220]LogLoad: Game class is 'BP_KixGameMode_C'
+[2026.07.17-13.16.45:336][220]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JetpackLevel.JetpackLevel up for play (max tick rate 60) at 2026.07.17-18.46.45
+[2026.07.17-13.16.45:336][220]LogWorld: Bringing up level for play took: 0.000663
+[2026.07.17-13.16.45:338][220]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.07.17-13.16.45:341][220]PIE: Server logged in
+[2026.07.17-13.16.45:343][220]PIE: Play in editor total start time 0.08 seconds.
+[2026.07.17-13.17.46:069][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.17-13.17.46:069][397]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JetpackLevel
+[2026.07.17-13.17.46:069][397]LogWorld: UWorld::CleanupWorld for JetpackLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.17.46:069][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.17.46:072][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.17-13.17.46:075][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.17.46:095][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.17-13.17.46:096][397]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.07.17-13.17.46:096][397]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.07.17-13.17.46:098][397]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.07.17-13.17.46:104][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.07.17-13.17.46:175][398]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.07.17-13.17.52:983][779]LogStreaming: Display: FlushAsyncLoading(538): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.17-13.17.52:989][779]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Kix/Animations/A_Kix_WalkBackward.A_Kix_WalkBackward (Required Memory Estimate: 0.63 MB)
+[2026.07.17-13.17.52:999][779]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Kix/Animations/A_Kix_WalkBackward.A_Kix_WalkBackward, at AnimationSequence/5fb2e1078b93824dd46f85b985b557afc2764d00
+[2026.07.17-13.18.09:936][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2026.07.17-13.18.13:253][952]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_89
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.13:253][952]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_89
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.13:383][960]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_90
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.13:383][960]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_90
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.32:897][120]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_91
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.32:897][120]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_91
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.32:914][121]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_92
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.32:914][121]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_92
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.32:931][122]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_93
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.32:931][122]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_93
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.33:064][130]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_94
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.33:064][130]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_94
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.33:915][181]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_95
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.33:915][181]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_95
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.33:932][182]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_96
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.33:932][182]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_96
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.33:948][183]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_97
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.33:948][183]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_97
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.33:965][184]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_98
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.33:965][184]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_98
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.33:981][185]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_99
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.33:981][185]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_99
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.33:998][186]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_100
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.33:998][186]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_100
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:015][187]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_101
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:015][187]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_101
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:215][199]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_102
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:215][199]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_102
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:232][200]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_103
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:232][200]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_103
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:248][201]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_104
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:248][201]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_104
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:265][202]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_105
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:265][202]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_105
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:282][203]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_106
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:282][203]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_106
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:298][204]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_107
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:298][204]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_107
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:327][205]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_108
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:327][205]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_108
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:361][206]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_109
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:362][206]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_109
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:393][207]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_110
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:393][207]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_110
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:428][208]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_111
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:428][208]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_111
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:444][209]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_112
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:444][209]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_112
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:460][210]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_113
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:460][210]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_113
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:584][216]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_114
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:584][216]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_114
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:612][217]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_115
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:612][217]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_115
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:640][218]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_116
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:641][218]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_116
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:666][219]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_117
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:666][219]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_117
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.34:682][220]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_118
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.34:682][220]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_118
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.35:462][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-13.18.35:535][266]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ABP_Kix] ([2] browsable assets)...
+[2026.07.17-13.18.35:537][266]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_119
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.35:537][266]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_119
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.35:545][266]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/ABP_Kix.ABP_Kix]
+[2026.07.17-13.18.35:546][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ABP_Kix]
+[2026.07.17-13.18.35:546][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Kix" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset" SILENT=true
+[2026.07.17-13.18.35:551][266]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Kix
+[2026.07.17-13.18.35:552][266]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/ABP_Kix6B51C6A6451E9A57E907718542B2A81B.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset'
+[2026.07.17-13.18.35:564][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.101 ms (total: 1.74 sec)
+[2026.07.17-13.18.35:636][266]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-13.18.35:636][266]LogContentValidation: Enabled validators:
+[2026.07.17-13.18.35:636][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-13.18.35:636][266]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-13.18.35:636][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-13.18.35:636][266]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-13.18.35:636][266]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-13.18.35:636][266]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-13.18.35:636][266]AssetCheck: /Game/Blueprints/ABP_Kix Validating asset
+[2026.07.17-13.18.35:694][268]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_120
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.18.35:694][268]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_120
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.18.50:925][973]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.07.17-13.18.50:937][973]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2026.07.17-13.18.50:945][973]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2026.07.17-13.18.50:962][974]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace).
+[2026.07.17-13.19.06:717][916]LogContentBrowser: Attempting asset rename: NewBlendSpace -> BS_Locomotion
+[2026.07.17-13.19.06:722][916]LogContentBrowser: End creating deferred item NewBlendSpace
+[2026.07.17-13.19.06:723][916]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.07.17-13.19.06:780][918]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_121
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:0038
+[2026.07.17-13.19.06:781][918]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetMovementComponent_ReturnValue in not an UClass
+	ABP_Kix_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Kix_C_121
+	Function /Game/Blueprints/ABP_Kix.ABP_Kix_C:ExecuteUbergraph_ABP_Kix:006F
+[2026.07.17-13.19.06:966][929]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Blueprints/BS_Locomotion.BS_Locomotion
+[2026.07.17-13.19.06:966][929]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.07.17-13.19.06:972][929]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.07.17-13.19.07:229][929]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.07.17-13.20.41:274][339]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5130.717773
+[2026.07.17-13.20.42:274][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.17-13.20.42:274][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5131.384277, Update Interval: 339.515381
+[2026.07.17-13.24.12:906][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.07.17-13.24.13:846][105]LogSlate: Window 'Save Content' being destroyed
+[2026.07.17-13.24.13:855][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-13.24.13:920][105]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BS_Locomotion] ([1] browsable assets)...
+[2026.07.17-13.24.13:938][105]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Blueprints/BS_Locomotion.BS_Locomotion]
+[2026.07.17-13.24.13:938][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BS_Locomotion]
+[2026.07.17-13.24.13:938][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BS_Locomotion" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BS_Locomotion.uasset" SILENT=true
+[2026.07.17-13.24.13:940][105]LogSavePackage: Moving output files for package: /Game/Blueprints/BS_Locomotion
+[2026.07.17-13.24.13:940][105]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/BS_Locomotion1287CC284BC1671C73D7DE8C84FE5E55.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BS_Locomotion.uasset'
+[2026.07.17-13.24.13:954][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.041 ms (total: 1.84 sec)
+[2026.07.17-13.24.13:983][105]LogStall: Shutdown...
+[2026.07.17-13.24.13:983][105]LogStall: Shutdown complete.
+[2026.07.17-13.24.14:042][105]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:042][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:056][105]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:056][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:066][105]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:066][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:095][105]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.07.17-13.24.14:095][105]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:096][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:169][105]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:169][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:178][105]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:178][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:212][105]LogSlate: Window 'JetpackJourney - Unreal Editor' being destroyed
+[2026.07.17-13.24.14:745][105]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-13.24.14:745][105]LogContentValidation: Enabled validators:
+[2026.07.17-13.24.14:745][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-13.24.14:745][105]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-13.24.14:745][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-13.24.14:745][105]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-13.24.14:745][105]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-13.24.14:745][105]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-13.24.14:745][105]AssetCheck: /Game/Blueprints/BS_Locomotion Validating asset
+[2026.07.17-13.24.14:844][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.07.17-13.24.14:863][105]Cmd: QUIT_EDITOR
+[2026.07.17-13.24.14:863][105]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.07.17-13.24.14:864][105]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Saved/SourceControl/UncontrolledChangelists.json
+[2026.07.17-13.24.14:871][106]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.07.17-13.24.14:875][106]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.07.17-13.24.14:875][106]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.07.17-13.24.14:879][106]LogWorld: UWorld::CleanupWorld for JetpackLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:879][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:904][106]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.07.17-13.24.14:907][106]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.07.17-13.24.14:913][106]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.07.17-13.24.14:928][106]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:928][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:930][106]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:930][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:932][106]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:932][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:936][106]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:936][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:939][106]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:939][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:941][106]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:941][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:945][106]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:946][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:948][106]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:948][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:951][106]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.24.14:951][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.24.14:960][106]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.07.17-13.24.14:961][106]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.07.17-13.24.14:968][106]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.07.17-13.24.15:945][106]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.07.17-13.24.15:945][106]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.07.17-13.24.15:945][106]LogAudio: Display: Audio Device unregistered from world 'JetpackLevel'.
+[2026.07.17-13.24.15:945][106]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.07.17-13.24.15:945][106]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.07.17-13.24.15:947][106]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.07.17-13.24.15:957][106]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.07.17-13.24.15:958][106]LogAudio: Display: Audio Device Manager Shutdown
+[2026.07.17-13.24.15:961][106]LogWindowsTextInputMethodSystem: Activated input method: English (India) - (Keyboard).
+[2026.07.17-13.24.15:967][106]LogExit: Preparing to exit.
+[2026.07.17-13.24.16:053][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.07.17-13.24.16:056][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:057][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.16:059][106]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.07.17-13.24.17:276][106]LogEditorDataStorage: Deinitializing
+[2026.07.17-13.24.17:628][106]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.07.17-13.24.17:702][106]LogExit: Editor shut down
+[2026.07.17-13.24.17:714][106]LogExit: Transaction tracking system shut down
+[2026.07.17-13.24.18:229][106]LogExit: Object subsystem successfully closed.
+[2026.07.17-13.24.18:260][106]LogShaderCompilers: Display: Shaders left to compile 0
