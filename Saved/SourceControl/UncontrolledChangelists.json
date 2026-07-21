@@ -13,13 +13,20 @@
 				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BP_KixController.uasset",
 				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Input/IA_Move.uasset",
 				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Input/IA_Jump.uasset",
-				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset",
-				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BS_Locomotion.uasset",
-				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BS_IdleWalkRun.uasset",
 				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Assets/Kix/Animations/A_Kix_JumpMid.uasset",
 				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Maps/_GENERATED/prash/Box_E6F879ED.uasset",
 				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Animation/BS_IdleWalkRun.uasset",
 				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Animation/ABP_Kix.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Maps/_GENERATED/prash/Box_37ACB842.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Assets/Kix/SKM_Kix.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Assets/Kix/SKEL_Kix.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Assets/Effects/Thrusters/MI_JetpackThruster_Purple.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Assets/Effects/Thrusters/NS_JetpackThruster.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Input/IA_JetPack.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Interfaces/BPI_JetPack.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/ABP_Kix.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BS_Locomotion.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Blueprints/BS_IdleWalkRun.uasset",
 				"C:/Users/prash/Desktop/Peronal Projects/UE5/JetpackJourney/Content/Input/IMC_MovementAndLook.uasset"
 			]
 		}
