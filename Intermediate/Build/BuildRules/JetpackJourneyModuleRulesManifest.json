@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\prash\\Desktop\\Peronal Projects\\UE5\\JetpackJourney\\Intermediate\\Source\\JetpackJourney.Build.cs",
+		"C:\\Users\\prash\\Desktop\\Peronal Projects\\UE5\\JetpackJourney\\Intermediate\\Source\\JetpackJourney.Target.cs",
+		"C:\\Users\\prash\\Desktop\\Peronal Projects\\UE5\\JetpackJourney\\Intermediate\\Source\\JetpackJourneyClient.Target.cs",
+		"C:\\Users\\prash\\Desktop\\Peronal Projects\\UE5\\JetpackJourney\\Intermediate\\Source\\JetpackJourneyEditor.Target.cs",
+		"C:\\Users\\prash\\Desktop\\Peronal Projects\\UE5\\JetpackJourney\\Intermediate\\Source\\JetpackJourneyServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
