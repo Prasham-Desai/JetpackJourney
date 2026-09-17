@@ -1,4 +1,8 @@
-﻿<p align="center">
+﻿<div align="center">
+  <img src="Screenshots/github-intro-banner.svg" width="100%" alt="Intro Banner"/>
+</div>
+
+<p align="center">
   <img src="Screenshots/Thumbnail.png" alt="Jetpack Journey Thumbnail">
 </p>
 
@@ -209,7 +213,5 @@ The vehicle's skeletal mesh was created entirely within the Unreal Editor — no
 ---
 
 <div align="center">
-<sub>Built with &#x2764;&#xFE0F; using Unreal Engine 5</sub>
-<br><br>
 <img src="Screenshots/github-readme-banner.svg" alt="Creator Signature Banner"/>
 </div>
