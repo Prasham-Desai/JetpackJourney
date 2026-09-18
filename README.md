@@ -52,12 +52,13 @@ Both **keyboard + mouse** and **gamepad/controller** inputs are fully supported 
 
 | Action | Keyboard | Controller | Description |
 | :--- | :--- | :--- | :--- |
+| **Enter Vehicle** | `E` | `Top Face Special Button` | Board the vehicle. |
 | **Throttle** | `W` | `Right Trigger (RT)` | Accelerate forward. |
 | **Brake / Reverse** | `S` | `Left Trigger (LT)` | Brake (or reverse when stopped). |
 | **Steer** | `A` / `D` | `Left Stick X-Axis` | Turn wheels left / right. |
 | **Handbrake** | `Space` | `Left Face Special Button` | Engage handbrake / drift. |
 | **Free Look** | `Mouse` | `Right Stick (2D Axis)` | Look around the vehicle freely. |
-| **Exit Vehicle** | `E` | — | Deboard and return to on-foot controls. |
+| **Exit Vehicle** | `E` | `Top Face Special Button` | Deboard and return to on-foot controls. |
 
 ---
 
@@ -213,5 +214,5 @@ The vehicle's skeletal mesh was created entirely within the Unreal Editor — no
 ---
 
 <div align="center">
-<img src="Screenshots/github-readme-banner.svg" alt="Creator Signature Banner"/>
+<img src="ScreenShots/github-readme-banner.svg" alt="Creator Signature Banner"/>
 </div>
